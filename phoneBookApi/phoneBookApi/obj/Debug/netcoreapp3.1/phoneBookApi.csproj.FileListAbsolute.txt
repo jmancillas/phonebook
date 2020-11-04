@@ -59,3 +59,5 @@ C:\Users\germa\Desktop\phoneBookApi\phoneBookApi\obj\Debug\netcoreapp3.1\phoneBo
 C:\Users\germa\Desktop\phoneBookApi\phoneBookApi\obj\Debug\netcoreapp3.1\phoneBookApi.pdb
 C:\Users\germa\Desktop\phoneBookApi\phoneBookApi\obj\Debug\netcoreapp3.1\phoneBookApi.genruntimeconfig.cache
 C:\Users\germa\Desktop\phoneBookApi\phoneBookApi\obj\Debug\netcoreapp3.1\phoneBookApi.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Nueva carpeta\phonebook\phoneBookApi\phoneBookApi\obj\Debug\netcoreapp3.1\phoneBookApi.dll
+C:\Users\USUARIO\Desktop\Nueva carpeta\phonebook\phoneBookApi\phoneBookApi\obj\Debug\netcoreapp3.1\phoneBookApi.pdb
